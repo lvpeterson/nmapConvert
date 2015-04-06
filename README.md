@@ -6,7 +6,7 @@ The format of the CSV is 1 port per row, so if multiple ports are open then ther
 Columns of CSV:
 ||IP|Hostname|OS|Port|Service|Application|Version|Extra Info||
 
-Usage: Usage: nmapConvert.pl <nmap xml file.xml> 
+Usage: nmapConvert.pl "nmap xml file.xml" 
 
 Dependancies:
 Nmap::Parser
